@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta name="viewport" content="width=device-width initial-scale=1.0 maximum-scale=1.0 user-scalable=yes">
+<head>
+    <meta charset="UTF-8">
+    <title>热门分享</title>
+    <link rel="stylesheet" href="assets/css/amazeui.css">
+    <!--<link rel="stylesheet" href="assets/css/app.css">-->
+    <link rel="stylesheet" href="assets/css/list-new.css">
+    <link rel="stylesheet" href="assets/css/dropload.css">
+</head>
+<body>
+<div class="tab">
+    <a href="javascript:;" class="item cur">热门分享排行</a>
+
+</div>
+<div class="content">
+    <div class="lists"></div>
+</div>
+<!-- jQuery1.7以上 或者 Zepto 二选一，不要同时都引用 -->
+<script src="assets/js/jquery-2.2.3.min.js"></script>
+<script src="assets/js/dropload.js"></script>
+<script>
+    $(function(){
+        var itemIndex = 0;
+        var tab1LoadEnd = false;
+        // tab
+        $('.tab .item').on('click',function(){
+            var $this = $(this);
+            itemIndex = $this.index();
+            $this.addClass('cur').siblings('.item').removeClass('cur');
+            $('.lists').eq(itemIndex).show().siblings('.lists').hide();
+
+            // 如果选中菜单一
+            if(itemIndex == '0'){
+                // 如果数据没有加载完
+                if(!tab1LoadEnd){
+                    // 解锁
+                    dropload.unlock();
+                    dropload.noData(false);
+                }else{
+                    // 锁定
+                    dropload.lock('down');
+                    dropload.noData();
+                }
+                // 如果选中菜单二
+            }
+            // 重置
+            dropload.resetload();
+        });
+
+        var counter = 0;
+        // 每页展示4个
+        var num = 4;
+        var pageStart = 0,pageEnd = 0;
+
+        // dropload
+        var dropload = $('.content').dropload({
+            scrollArea : window,
+            loadDownFn : function(me){
+                // 加载菜单一的数据
+                if(itemIndex == '0'){
+                    $.ajax({
+                        type: 'GET',
+                        url: 'assets/json/niubable.json',
+                        dataType: 'json',
+                        success: function(data){
+                            var result = '';
+                            counter++;
+                            pageEnd = num * counter;
+                            pageStart = pageEnd - num;
+
+                            if(pageStart <= data.lists.length){
+                                for(var i = pageStart; i < pageEnd; i++){
+                                    result +=   '<a class="item opacity" href="'+data.lists[i].aurl+'">'
+                                            +'<img src="'+data.lists[i].imgurl+'" alt="">'
+                                            +'<h3>'+data.lists[i].name+'</h3>'
+                                            +'<h4>'+data.lists[i].briefing+'</h4>'
+                                            +'<span class="date">'+data.lists[i].data+'</span>'
+                                            +'</a>';
+                                    if((i + 1) >= data.lists.length){
+                                        // 数据加载完
+                                        tab1LoadEnd = true;
+                                        // 锁定
+                                        me.lock();
+                                        // 无数据
+                                        me.noData();
+                                        break;
+                                    }
+                                }
+                                // 为了测试，延迟1秒加载
+                                setTimeout(function(){
+                                    $('.lists').eq(0).append(result);
+                                    // 每次数据加载完，必须重置
+                                    me.resetload();
+                                },400);
+                            }
+                        },
+                        error: function(xhr, type){
+                            alert('Ajax error!');
+                            // 即使加载出错，也得重置
+                            me.resetload();
+                        }
+                    });
+                    // 加载菜单二的数据
+                }
+            }
+        });
+    });
+</script>
+</body>
+</html>
