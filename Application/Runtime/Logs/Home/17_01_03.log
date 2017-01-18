@@ -1,0 +1,73 @@
+[ 2017-01-03T10:01:40+08:00 ] ::1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `xf_index_info` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `xf_index_info` WHERE ( sorts=0 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `xf_index_info` WHERE ( flag<20 AND flag>0 ) ORDER BY flag LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `xf_index_info` WHERE ( flag>20 AND flag<30 ) ORDER BY flag LIMIT 4   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `xf_index_info` WHERE ( flag>30 ) ORDER BY flag LIMIT 4   [ RunTime:0.0000s ]
+SQL: SELECT `name`,`aurl` FROM `xf_index_info` WHERE ( creat_time > '2016-12-27 10:01:40'AND sorts >0 ) LIMIT 11   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `xf_index_info` WHERE ( sorts =4 ) ORDER BY creat_time desc LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `xf_index_info` WHERE ( sorts =5 ) ORDER BY creat_time desc LIMIT 8   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `xf_index_info` WHERE ( sorts =6 ) ORDER BY creat_time desc LIMIT 8   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `xf_index_info` WHERE ( sorts =7 ) ORDER BY creat_time desc LIMIT 8   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-03T10:01:40+08:00 ] ::1 /thinkphp/Public/images/title.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-03T10:01:40+08:00 ] ::1 /thinkphp/%E8%8C%83%E5%BE%B7%E8%90%A8%E5%8F%91
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:范德萨发
+
+[ 2017-01-03T10:01:40+08:00 ] ::1 /thinkphp/dsafdfsdaf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Dsafdfsdaf
+
+[ 2017-01-03T10:01:40+08:00 ] ::1 /thinkphp/images/1125mzyy.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-03T10:01:40+08:00 ] ::1 /thinkphp/images/1125cyz.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-03T10:01:40+08:00 ] ::1 /thinkphp/images/1125xmppd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-03T10:01:43+08:00 ] ::1 /thinkphp/assets/i/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+

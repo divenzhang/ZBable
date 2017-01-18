@@ -118,7 +118,7 @@
   <div class="top-new">
     <ul>
       <?php if(is_array($indexUpdate)): $i = 0; $__LIST__ = $indexUpdate;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><li>
-          <a href="<?php echo ($vo["aurl"]); ?>">
+          <a href="<?php echo ($vo["aurl"]); ?>"  class="index_ico" id="<?php echo ($vo["id"]); ?>">
             <img src="<?php echo ($vo["imgurl"]); ?>"><div class="top-text"><?php echo ($vo["name"]); ?></div>
           </a>
         </li><?php endforeach; endif; else: echo "" ;endif; ?>
@@ -135,9 +135,9 @@
   </div>
 
   <div class="top-new">
-    <ul>
+    <ul id="count" title="<?php echo U('Index/click');?>">
       <?php if(is_array($indexLike)): $i = 0; $__LIST__ = $indexLike;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$lk): $mod = ($i % 2 );++$i;?><li>
-          <a href="<?php echo ($lk["aurl"]); ?>">
+          <a href="<?php echo ($lk["aurl"]); ?>" class="index_ico" id="<?php echo ($lk["id"]); ?>">
             <img src="<?php echo ($lk["imgurl"]); ?>"><div class="top-text"><?php echo ($lk["name"]); ?></div>
           </a>
         </li><?php endforeach; endif; else: echo "" ;endif; ?>
@@ -229,6 +229,20 @@
 
 
   })
+  $('.index_ico').click(function () {
+    var id = $(this).attr('id');
+    console.log(id);
+    $.ajax({
+      url: '/thinkphp/index.php/Home/Index/click/',
+      type: 'post',
+      data: {"cid":id},
+      dataType: 'json',
+      success: function (data) {
+          console.log(data);
+      }
+    });
+  });
+
 </script>
 <script type="text/javascript">
   $(function(){

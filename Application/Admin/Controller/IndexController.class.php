@@ -47,7 +47,7 @@ class IndexController extends BaseController
         $data['aurl'] = $arr['aurl'];
         $data['sorts'] = $arr['sorts'];
         $data['creat_time'] = date('Y-m-d H:i:s', time());
-        $data['data'] = rand(1,80)/10;
+        $data['data'] = rand(3,80)/10;
         $number = $arr['number'];
         $flag = $arr['flag'];
         $image = $arr['image'];

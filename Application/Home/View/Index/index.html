@@ -123,7 +123,7 @@
     <ul>
       <volist name="indexUpdate" id="vo">
         <li>
-          <a href="{$vo.aurl}">
+          <a href="{$vo.aurl}"  class="index_ico" id="{$vo.id}">
             <img src="{$vo.imgurl}"><div class="top-text">{$vo.name}</div>
           </a>
         </li>
@@ -143,10 +143,10 @@
   </div>
 
   <div class="top-new">
-    <ul>
+    <ul id="count" title="{:U('Index/click')}">
       <volist name="indexLike" id="lk">
         <li>
-          <a href="{$lk.aurl}">
+          <a href="{$lk.aurl}" class="index_ico" id="{$lk.id}">
             <img src="{$lk.imgurl}"><div class="top-text">{$lk.name}</div>
           </a>
         </li>
@@ -245,6 +245,20 @@
 
 
   })
+  $('.index_ico').click(function () {
+    var id = $(this).attr('id');
+    console.log(id);
+    $.ajax({
+      url: '__CONTROLLER__/click/',
+      type: 'post',
+      data: {"cid":id},
+      dataType: 'json',
+      success: function (data) {
+          console.log(data);
+      }
+    });
+  });
+
 </script>
 <script type="text/javascript">
   $(function(){

@@ -2,7 +2,7 @@
 /**
  * 后台的基类
  * Created by PhpStorm.
- * User: Administrator
+ * User: XCube
  * Date: 2016/12/2
  * Time: 9:56
  */
@@ -11,8 +11,7 @@ namespace Admin\Controller;
 use Think\Controller;
 
 class BaseController extends Controller
-{
-    protected $userId = null;
+{ protected $userId = null;
 
     public function __construct()
     {
@@ -23,4 +22,5 @@ class BaseController extends Controller
         }
         $this->userId = session('admin.id');
     }
+
 }

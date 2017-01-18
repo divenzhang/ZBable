@@ -190,7 +190,7 @@
                     <div>
                         <input type="hidden" name="image" value="" class="type" id="ico_img">
                         <button type="button" class="am-btn am-btn-default am-btn-sm">
-                            <i class="am-icon-cloud-upload"></i> 选择要上传的图标
+                            <i class="am-icon-cloud-upload">选择要上传的图标</i>
                         </button>
                     </div>
                     <input type="file" name="ico"
@@ -352,13 +352,12 @@
 
 
         </div>
-
         <div class="modify-bg"></div>
 
 
     </div>
     <div id="con_one_3" style="display:none;">
-        <h3>第三行</h3>
+        <h3>分类3</h3>
         <table class="am-table am-table-striped am-table-hover am-text-nowrap am-scrollable-horizontal">
             <thead>
             <td>标题</td>

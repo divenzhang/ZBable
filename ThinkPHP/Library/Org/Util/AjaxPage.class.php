@@ -28,7 +28,17 @@ class AjaxPage
 // 分页的栏的总页数
     protected $coolPages ;
 // 分页显示定制
-    protected $config = array('header'=>'条记录','prev'=>'上一页','next'=>'下一页','first'=>'第一页','last'=>'最后一页','theme'=>' %totalRow% %header% %nowPage%/%totalPage% 页 %upPage% %downPage% %first% %prePage% %linkPage% %nextPage% %end%');
+//    protected $config = array('header'=>'条记录','prev'=>'上一页','next'=>'下一页','first'=>'第一页','last'=>'最后一页','theme'=>' %totalRow% %header% %nowPage%/%totalPage% 页 %upPage% %downPage% %first% %prePage% %linkPage% %nextPage% %end%');
+
+    private $config  = array(
+        'header' => '条记录',
+        'prev'   => '上一页',
+        'next'   => '下一页',
+        'first'  => '第一页',
+        'last'   => '最后一页',
+        'theme'  => '%totalRow% %header% %nowPage%/%totalPage% 页 %upPage%  %first% %prePage% %linkPage% %downPage%',
+    );
+
 // 默认分页变量名
     protected $varPage;
     public function __construct($totalRows,$listRows='',$ajax_func,$parameter='') {

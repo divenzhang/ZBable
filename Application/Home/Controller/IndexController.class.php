@@ -57,5 +57,19 @@ class IndexController extends Controller
 
 
     }
+    public function click(){
+        $arr = I();
+        $id =$arr["cid"];
+        $msg['ud']=$id;
+        $click =M('index_info');
+        $total =$click->where("id=$id")->setInc('click');
+        if (!$total){
+            $msg['msg']='fail';
+        }else{
+            $msg['msg']='success';
+        }
+
+        $this ->ajaxReturn($msg);
+    }
 
 }
