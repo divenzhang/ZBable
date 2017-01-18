@@ -1,0 +1,193 @@
+<extend name="Public/base"/>
+//引入表头内容
+<block name="header">
+    <include file="Public/header"/>
+</block>
+
+<block name="sidebar">
+    <include file="Public/sidebar" nav="update"/>
+</block>
+<block name="main">
+    <ol class="breadcrumb">
+        <li><a href="{:U('Admin/Index/index')}">首页</a></li>
+        <li class="active">首页内容调整</li>
+    </ol>
+    <div class="box">
+        <div class="table-header">首页12个图标</div>
+        <table class="table table-bordered table-hover table-responsive" style="width: 90%;margin: 0 5% 0 5%">
+            <thead>
+            <td width="10%">标题</td>
+            <td width="20%">副标题</td>
+            <td width="30%">链接</td>
+            <td width="30%">图片链接</td>
+            <td width="5%">分类序号</td>
+            <td width="5%">操作</td>
+            </thead>
+            <tr class="danger">
+                <td colspan="6" style="text-align: center">第一行</td>
+            </tr>
+            <volist name="one" id="one">
+                <tr class="active">
+                    <td>{$one.name}</td>
+                    <td>{$one.briefing}</td>
+                    <td>{$one.aurl}</td>
+                    <td>{$one.imgurl}</td>
+                    <td>{$one.flag}</td>
+                    <td><a class="modify-header" id="{$one.id}" href="javascript:void(0);">修改</a></td>
+                </tr>
+            </volist>
+            <tr class="danger">
+                <td colspan="6" style="text-align: center">第二行</td>
+            </tr>
+            <volist name="two" id="two">
+                <tr class="active">
+                    <td>{$two.name}</td>
+                    <td>{$two.briefing}</td>
+                    <td>{$two.aurl}</td>
+                    <td>{$two.imgurl}</td>
+                    <td>{$two.flag}</td>
+                    <td><a class="modify-header" id="{$two.id}" href="javascript:void(0);">修改</a></td>
+                </tr>
+            </volist>
+            <tr class="danger">
+                <td colspan="6" style="text-align: center">第三行</td>
+            </tr>
+            <volist name="three" id="three">
+                <tr class="active">
+                    <td>{$three.name}</td>
+                    <td>{$three.briefing}</td>
+                    <td>{$three.aurl}</td>
+                    <td>{$three.imgurl}</td>
+                    <td>{$three.flag}</td>
+                    <td><a class="modify-header" id="{$three.id}" href="javascript:void(0);">修改</a></td>
+                </tr>
+            </volist>
+        </table>
+        <p class="bg-info" style="height: 50px;text-align: center;padding-top: 10px;margin-left: 5%;width: 90%">首页轮播图</p>
+        <table class="table table-bordered table-hover table-responsive" style="width: 90%;margin: 0 5% 0 5%">
+            <thead>
+
+                <td>链接地址</td>
+                <td>轮播图地址</td>
+                <td>排序</td>
+                <td>操作</td>
+            </thead>
+            <volist name="banner" id="banner">
+                <tr class="active">
+                    <td>{$banner.aurl}</td>
+                    <td>{$banner.imgurl}</td>
+                    <td>{$banner.serial}</td>
+                    <td>
+                        <button type="button" class="btn btn-primary btn-link banbtn" data-toggle="modal"
+                                data-target="#change_ban" data="{$banner.id}">修改
+                        </button>
+                    </td>
+                </tr>
+            </volist>
+
+
+        </table>
+    </div>
+    <!--修改弹出框-->
+    <div class="modify">
+        <div class="modify-title">修改首页<span><a href="javascript:void(0);" class="close-modify">关闭</a></span></div>
+        <form class="am-form1" action="{:U('Admin/Adjust/modify')}" onsubmit="return $.sub(this);" method="post">
+            <div class="modify-input-content">
+                <div class="modify-input">
+                    <label>标 题：</label>
+                    <input type="hidden" value="" name="btn_id" id="btn_id">
+                    <input type="text" placeholder="请输入标题" name="name" id="name" class="list-input"/>
+                </div>
+                <div class="modify-input">
+                    <label>副标题：</label>
+                    <input type="text" placeholder="请输入副标题" name="briefing" id="briefing" class="list-input"/>
+                </div>
+                <div class="modify-input">
+                    <label>链 接：</label>
+                    <input type="text" placeholder="请输入链接" name="aurl" id="aurl" class="list-input"/>
+                </div>
+                <div class="modify-input">
+                    <label>图片链接：</label>
+                    <input type="text" placeholder="请输入图片链接" name="imgurl" id="imgurl" class="list-input"/>
+                </div>
+                <div class="modify-input">
+                    <label>上传图片：</label>
+                    <div class="form-group">
+                        <input type="hidden" name="new_img" value="" class="type" id="new_img">
+                        <input type="file" name="ico"
+                               onchange="uploadFile('{:U('Admin/Adjust/image')}','ico-file-2','new_img');"
+                               id="ico-file-2">
+                    </div>
+                </div>
+                <div class="modify-input">
+                    <label>排序位置：</label>
+                    <div class="form-group xf-select">
+                        <select name="sorts" id="sorts1" class="form-control">
+                            <option value="1">第一行</option>
+                            <option value="2">第二行</option>
+                            <option value="3">第三行</option>
+                        </select>
+                    </div>
+                    <div class="form-group xf-select">
+                        <select name="flag" class="form-control" id="flag1">
+                            <option value="1">排序1</option>
+                            <option value="2">排序2</option>
+                            <option value="3">排序3</option>
+                            <option value="4">排序4</option>
+                        </select>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="modify-button">
+                <button class="btn btn-primary btn-block btn-lg" type="submit">确认修改</button>
+            </div>
+        </form>
+
+
+    </div>
+    <div class="modify-bg"></div>
+    <!--调整banner弹出框-->
+    <div id="change_ban" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal"><span
+                            aria-hidden="true">&times;</span><span class="sr-only">关闭</span></button>
+                    <h4 class="modal-title">添加账号</h4>
+                </div>
+                <form class="form-horizontal" action="{:U('Admin/Adjust/editban')}" onsubmit="return $.sub(this);"
+                      method="post" role="form">
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label">链接</label>
+                            <div class="col-sm-8">
+                                <input name="aurl" class="form-control" id="banner_a" type="text" placeholder="请输入游戏链接">
+                                <input name="id" id="bannerid" class="form-control" type="hidden" >
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label">排序</label>
+                            <div class="col-sm-10">
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <select name="serial" id="serial" class=" form-control">
+                                            <option value="1">排序1</option>
+                                            <option value="2">排序2</option>
+                                            <option value="3">排序3</option>
+                                            <option value="4">排序4</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+                            <button type="submit" class="btn btn-primary">确定修改</button>
+                        </div>
+                </form>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+</block>

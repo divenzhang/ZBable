@@ -2,17 +2,17 @@
 /**
  * Created by PhpStorm.
  * User: Administrator
- * Date: 2016/11/29
- * Time: 16:49
+ * Date: 2017/1/10
+ * Time: 17:07
  */
 namespace Admin\Controller;
 use Think\Controller;
+
 class LoginController extends Controller
 {
-    public function login(){
+    public function index(){
         $this->display();
     }
-
     public function doLogin(){
         if (!IS_POST) {
             E('页面不存在', 404);
@@ -72,7 +72,7 @@ class LoginController extends Controller
     public function logout()
     {
         session('admin', null);
-        $this->success('退出成功', U('Login/login'));
+        $this->success('退出成功', U('Admin/Login/index'));
     }
     public function verify()
     {
@@ -82,4 +82,5 @@ class LoginController extends Controller
         $Verify->useCurve = false;
         $Verify->entry();
     }
+
 }

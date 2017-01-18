@@ -128,18 +128,18 @@
         <div class="separator-50"></div>
 
         <ul class="menu-list">
-            <li <?php if(index == 'index'): ?>class="menu-item actived"<?php else: ?>class="menu-item"<?php endif; ?>>
+            <li <?php if(admin == 'index'): ?>class="menu-item actived"<?php else: ?>class="menu-item"<?php endif; ?>>
                 <a href="<?php echo U('Admin/index/index');?>"><i class="fa fa-home" aria-hidden="true"></i>首页</a>
             </li>
             <li class="separator-20"></li>
-            <li <?php if(index == 'update'): ?>class="menu-item actived"<?php else: ?>class="menu-item"<?php endif; ?>>
+            <li <?php if(admin == 'update'): ?>class="menu-item actived"<?php else: ?>class="menu-item"<?php endif; ?>>
                 <a href="javascript:void(0)"><i class="fa fa-cube" aria-hidden="true"></i>首页更新</a>
                 <ul class="sub-menu-list">
                     <li class="sub-menu-item"><a href="<?php echo U('Admin/Modify/index');?>">上传新内容</a></li>
                     <li class="sub-menu-item"><a href="<?php echo U('Admin/Adjust/index');?>">调整首页</a></li>
                 </ul>
             </li>
-            <li <?php if(index == 'sorts'): ?>class="menu-item actived"<?php else: ?>class="menu-item"<?php endif; ?>>
+            <li <?php if(admin == 'sorts'): ?>class="menu-item actived"<?php else: ?>class="menu-item"<?php endif; ?>>
                 <a href="javascript:void(0)"><i class="glyphicon glyphicon-th" aria-hidden="true"></i>分类管理</a>
                 <ul class="sub-menu-list">
                     <li class="sub-menu-item"><a href="#">排序</a></li>
@@ -156,7 +156,7 @@
                     <li class="sub-menu-item"><a href="#">404页面</a></li>
                 </ul>
             </li>
-            <li <?php if(index == 'admin'): ?>class="menu-item actived"<?php else: ?>class="menu-item"<?php endif; ?>>
+            <li <?php if(admin == 'admin'): ?>class="menu-item actived"<?php else: ?>class="menu-item"<?php endif; ?>>
                 <a href="javascript:void(0)"><i class="glyphicon glyphicon-user" aria-hidden="true"></i>管理员</a>
                 <ul class="sub-menu-list">
                     <li class="sub-menu-item"><a href="<?php echo U('Admin/User/index');?>">设置</a></li>
@@ -177,74 +177,136 @@
     <div class="main-container">
         <div class="padding">
             
-        <ol class="breadcrumb">
-            <li class="active">首页</li>
-            <li class="active">hello</li>
-        </ol>
+    <ol class="breadcrumb">
+        <li><a href="<?php echo U('Home/Index/index');?>">首页</a></li>
+        <li class="active">个人中心</li>
+    </ol>
     <div class="box">
-        <div class="heading">
-            <h3 class="title">提醒<a href="inbox.html" class="link-right">更多>></a></h3>
+        <div class="table-header">账号设置
+            <button style="float: right;margin-right: 10px;margin-top: 2px" type="button" class="btn btn-primary btn-success"
+                    data-toggle="modal" data-target="#addmodal">增加账号
+            </button>
         </div>
-        <div class="box-inner">
-            <div class="row">
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <section class="box-label-block theme">
-                        <div class="symbol">
-                            <i class="glyphicon glyphicon-stats" aria-hidden="true"></i>
+        <table class="table table-bordered table-responsive table-hover" style="width: 90%;margin: 0 5% 0 5%">
+            <thead>
+            <tr>
+                <td width="10%">id</td>
+                <td width="20%">用户名</td>
+                <td width="30%">登陆时间</td>
+                <td width="30%">登陆ip</td>
+                <td width="5%">状态</td>
+                <td width="5%">操作</td>
+            </tr>
+
+            </thead>
+            <?php if(is_array($user)): $i = 0; $__LIST__ = $user;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$user): $mod = ($i % 2 );++$i;?><tr>
+                    <td><?php echo ($user["id"]); ?></td>
+                    <td><?php echo ($user["username"]); ?></td>
+                    <td><?php echo ($user["login_time"]); ?></td>
+                    <td><?php echo ($user["login_ip"]); ?></td>
+                    <td><?php echo ($user["status"]); ?></td>
+                    <td>
+                        <button type="button" class="btn btn-primary btn-link modbtn" data-toggle="modal"
+                                data-target="#myModal" data="<?php echo U('Home/User/question');?>">编辑
+                        </button>
+                    </td>
+                </tr><?php endforeach; endif; else: echo "" ;endif; ?>
+        </table>
+
+
+        <!-- 修改信息弹出框 -->
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+             aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span
+                                class="sr-only">Close</span></button>
+                        <h4 class="modal-title" id="myModalLabel">更改密码</h4>
+                    </div>
+                    <form class="form-horizontal" action="<?php echo U('Home/User/modify');?>" onsubmit="return $.sub(this);"
+                          method="post" role="form">
+                        <div class="modal-body">
+                            <div class="form-group">
+                                <label class="col-sm-2 control-label" for="username">用户名</label>
+                                <div class="col-sm-10">
+                                    <input name="username" class="form-control" type="text" id="username"
+                                           placeholder="">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-2 control-label" for="formGroupInputSmall">修改密码</label>
+                                <div class="col-sm-10">
+                                    <input name="password" class="form-control" type="password" id="formGroupInputSmall"
+                                           placeholder="输入新密码">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-2 control-label" for="formGroupInputSmall">验证问题</label>
+                                <div class="col-sm-10">
+                                    <select name="new_id" id="" class="form-control">
+                                        <option selected id="question" value=""></option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-2 control-label" for="formGroupInputSmall">问题答案</label>
+                                <div class="col-sm-10">
+                                    <input name="answer" class="form-control" type="text" placeholder="修改密码需验证身份">
+                                </div>
+                            </div>
                         </div>
-                        <div class="content">
-                            <h4 class="title">点击总数</h4>
-                            <p><?php echo ($data["all"]); ?></p>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+                            <button type="submit" class="btn btn-primary">确定修改</button>
                         </div>
-                    </section>
+                    </form>
                 </div>
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <section class="box-label-block cyellow">
-                        <div class="symbol">
-                            <i class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></i>
-                        </div>
-                        <div class="content">
-                            <h4 class="title">昨日最高</h4>
-                            <p>10</p>
-                        </div>
-                    </section>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <section class="box-label-block terques">
-                        <div class="symbol">
-                            <i class="glyphicon glyphicon-export" aria-hidden="true"></i>
-                        </div>
-                        <div class="content">
-                            <h4 class="title">历史最高</h4>
-                            <p><?php echo ($data["max"]); ?></p>
-                        </div>
-                    </section>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <section class="box-label-block cred">
-                        <div class="symbol">
-                            <i class="glyphicon glyphicon-sort-by-attributes-alt" aria-hidden="true"></i>
-                        </div>
-                        <div class="content">
-                            <h4 class="title">表现最差</h4>
-                            <p><?php echo ($data["min"]); ?></p>
-                        </div>
-                    </section>
-                </div>
-            </div>
-        </div>
-        <div class="box-inner">
-            <div class="alert alert-success" role="alert">新年大变脸，可能存在bug</div>
-            <div class="alert alert-warning alert-dismissible" role="alert">
-                <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <strong>Warning!</strong> 发现错误要提出来哟！
-            </div>
-            <div class="alert alert-info alert-dismissible" role="alert">
-                <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <strong>更新</strong> 管理员可以创建新账号，修改密码，首页轮播图调整
             </div>
         </div>
     </div>
+
+    <!--添加账号弹出框-->
+    <div id="addmodal" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal"><span
+                            aria-hidden="true">&times;</span><span class="sr-only">关闭</span></button>
+                    <h4 class="modal-title">添加账号</h4>
+                </div>
+                <form class="form-horizontal" action="<?php echo U('Home/User/account');?>" onsubmit="return $.sub(this);"
+                      method="post" role="form">
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label" for="username">用户名</label>
+                            <div class="col-sm-10">
+                                <input name="username" class="form-control" type="text"  placeholder="请输入登录用户名">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label" for="password">密 码</label>
+                            <div class="col-sm-10">
+                                <input name="password" class="form-control" type="password" id="password"
+                                       placeholder="输入新密码">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label" for="passwordb">确认密码</label>
+                            <div class="col-sm-10">
+                                <input name="passwordb" class="form-control" type="password" id="passwordb"
+                                       placeholder="重复新密码">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+                        <button type="submit" class="btn btn-primary">确定修改</button>
+                    </div>
+                </form>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
 
         </div>
     </div>

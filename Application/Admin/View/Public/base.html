@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Admin-首页</title>
+
+    <!-- Bootstrap -->
+    <link href="__PUBLIC__/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="__PUBLIC__/assets/bootstrap-daterangepicker/daterangepicker.css">
+    <link rel="stylesheet" href="__PUBLIC__/assets/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="__PUBLIC__/assets/css/common.css">
+    <link rel="stylesheet" href="__PUBLIC__/assets/css/main.css">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <style type="text/css">
+        .table-header {
+            background-color: #4ec3ff;
+            text-align: center;
+            color: #FFF;
+            font-size: 14px;
+            line-height: 38px;
+            padding-left: 12px;
+            margin-bottom: 1px;
+        }
+
+        /* modify */
+        .modify-header{width:100%;text-align:center;height:30px;font-size:16px;line-height:30px;}
+        .modify{width:500px;position:fixed;border:#ebebeb solid 1px;height:515px;top:30%;left:50%;display:none;background:#ffffff;box-shadow:0px 0px 20px #ddd;z-index:9999;margin-left:-250px;margin-top:-140px;}
+        .modify-title{width:100%;margin:10px 0px 0px 0px;text-align:center;line-height:40px;height:40px;font-size:18px;position:relative;}
+        .modify-title span{position:absolute;font-size:12px;right:-20px;top:-30px;background:#ffffff;border:#ebebeb solid 1px;width:40px;height:40px;border-radius:20px;}
+        .modify-title span a{display:block;}
+        .modify-input-content{margin-top:20px;}
+        .modify-input {overflow:hidden;margin:0px 0px 20px 0px;}
+        .modify-input label{float:left;width:90px;padding-right:10px;text-align:right;line-height:35px;height:35px;font-size:14px;}
+        .modify-input input.list-input{float:left;line-height:35px;height:35px;width:350px;border:#ebebeb 1px solid;text-indent:5px;}
+        .modify-button{width:50%;margin:30px auto 0px auto;line-height:40px;font-size:14px;border:#ebebeb 1px solid;text-align:center;}
+        .modify-button a{display:block;}
+        .modify-bg{width:100%;height:100%;position:fixed;top:0;left:0;background:#ebebeb;filter:alpha(opacity=30);-moz-opacity:0.3;-khtml-opacity:0.3;opacity:0.3;display:none;}
+        /*.xf-form{*/
+            /*!*display: inline-block;*!*/
+            /*!*top: -36px;*!*/
+            /*!*float: left;*!*/
+            /*!*left: 90px;*!*/
+
+        /*}*/
+        .xf-select{
+            display: inline-block;
+            /*margin-left: 109px;*/
+            /*margin-top: 4px;*/
+        }
+    </style>
+</head>
+<body>
+    <include file="Public/header"/>
+<div class="wrapper">
+    <block name="sidebar">
+        <include file="Public/sidebar"/>
+    </block>
+
+    <div class="main-container">
+        <div class="padding">
+            <block name="main"></block>
+        </div>
+    </div>
+
+</div>
+
+<!--返回顶部-->
+<div class="scroll-to-top"><i class="fa fa-chevron-up fa-lg"></i></div>
+<!--各个页面需要的js-->
+<script src="__PUBLIC__/assets/jquery/jquery-2.2.3.min.js"></script>
+<script src="__PUBLIC__/assets/bootstrap/js/bootstrap.min.js"></script>
+<script src="__PUBLIC__/assets/bootstrap-daterangepicker/moment.min.js"></script>
+<script src="__PUBLIC__/assets/bootstrap-daterangepicker/daterangepicker.js"></script>
+<script src="__PUBLIC__/assets/js/main.js"></script>
+<script src="__PUBLIC__/assets/js/modify.js"></script>
+<script src="__PUBLIC__/assets/js/ajaxfileupload.js"></script>
+<script src="__PUBLIC__/assets/js/ajaxUpload.js"></script>
+    <!--调整首页js-->
+    <script type="text/javascript">
+        $('.modbtn').click(function () {
+            console.log("ffff");
+            var td = $(this).parents('tr').children('td');
+            $('#username').attr('value', td.eq(1).text());
+            var id=td.eq(0).text();
+            var url=$(this).attr('data');
+            $('#question').attr('value',id);
+            console.log(id+url);
+            $.ajax({
+                type: 'POST',
+                url:url,
+                data:{'id':id},
+                success: function(data) {
+                    $('#question').html(data.question);
+                }
+            });
+        });
+        $("#ico-file-2").change(function () {
+            $("#docPath").val($(":file").val());
+        });
+
+        $("#path").change(function () {
+            $("#docPath").val($(":file").val());
+        });
+        $(".banbtn").click(function () {
+            var td = $(this).parents('tr').children('td');
+            var id =$(this).attr('data');
+            $("#bannerid").attr('value',id);
+            $("#banner_a").attr('value',td.eq(0).text());
+            var num =td.eq(2).text();
+            $("#serial option[value='"+num+"']").attr('selected',true);
+            console.log(id);
+        });
+    </script>
+</body>
+</html>
