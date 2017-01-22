@@ -19,7 +19,7 @@
             <td width="10%">标题</td>
             <td width="20%">副标题</td>
             <td width="30%">链接</td>
-            <td width="30%">图片链接</td>
+            <td width="30%">图标</td>
             <td width="5%">分类序号</td>
             <td width="5%">操作</td>
             </thead>
@@ -31,7 +31,7 @@
                     <td>{$one.name}</td>
                     <td>{$one.briefing}</td>
                     <td>{$one.aurl}</td>
-                    <td>{$one.imgurl}</td>
+                    <td><img src="{$one.imgurl}" style="width:32px;height:32px;"></td>
                     <td>{$one.flag}</td>
                     <td><a class="modify-header" id="{$one.id}" href="javascript:void(0);">修改</a></td>
                 </tr>
@@ -44,7 +44,7 @@
                     <td>{$two.name}</td>
                     <td>{$two.briefing}</td>
                     <td>{$two.aurl}</td>
-                    <td>{$two.imgurl}</td>
+                    <td><img src="{$two.imgurl}" style="width:32px;height:32px;"></td>
                     <td>{$two.flag}</td>
                     <td><a class="modify-header" id="{$two.id}" href="javascript:void(0);">修改</a></td>
                 </tr>
@@ -57,7 +57,7 @@
                     <td>{$three.name}</td>
                     <td>{$three.briefing}</td>
                     <td>{$three.aurl}</td>
-                    <td>{$three.imgurl}</td>
+                    <td><img src="{$three.imgurl}" style="width:32px;height:32px;"></td>
                     <td>{$three.flag}</td>
                     <td><a class="modify-header" id="{$three.id}" href="javascript:void(0);">修改</a></td>
                 </tr>
@@ -75,7 +75,7 @@
             <volist name="banner" id="banner">
                 <tr class="active">
                     <td>{$banner.aurl}</td>
-                    <td>{$banner.imgurl}</td>
+                    <td><img src="{$banner.imgurl}" style="width:96px;height:32px;"></td>
                     <td>{$banner.serial}</td>
                     <td>
                         <button type="button" class="btn btn-primary btn-link banbtn" data-toggle="modal"

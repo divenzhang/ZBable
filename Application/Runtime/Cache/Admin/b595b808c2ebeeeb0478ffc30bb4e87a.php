@@ -110,13 +110,13 @@
 
             <div class="dropdown">
                 <button class="btn btn-default dropdown-toggle" type="button" id="navbar-dropdownmenu" data-toggle="dropdown">
-                    <img src="./images/avatar-mini.jpg" alt="Admin">
+                    <img src="/thinkphp/Public/images/avatar-mini.jpg" alt="Admin">
                     管理员
                     <span class="caret"></span>
                 </button>
                 <ul class="dropdown-menu dropdown-menu-right" role="menu" aria-labelledby="navbar-dropdownmenu">
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="<?php echo U('Home/User/index');?>">设置</a></li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="<?php echo U('Home/Login/logout');?>">退出登录</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="<?php echo U('Admin/User/index');?>">设置</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="<?php echo U('Admin/Login/logout');?>">退出登录</a></li>
                 </ul>
             </div>
         </div>
@@ -142,7 +142,7 @@
             <li <?php if(index == 'sorts'): ?>class="menu-item actived"<?php else: ?>class="menu-item"<?php endif; ?>>
                 <a href="javascript:void(0)"><i class="glyphicon glyphicon-th" aria-hidden="true"></i>分类管理</a>
                 <ul class="sub-menu-list">
-                    <li class="sub-menu-item"><a href="#">排序</a></li>
+                    <li class="sub-menu-item"><a href="<?php echo U('Admin/Sorts/index');?>">排序</a></li>
                     <li class="sub-menu-item"><a href="#">上首页</a></li>
                 </ul>
             </li>

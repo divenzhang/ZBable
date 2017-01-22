@@ -5,6 +5,7 @@
     <title>Title</title>
     <link rel="stylesheet" href="/thinkphp/Public/assets/css/amazeui.css">
     <script src="/thinkphp/Public/assets/js/jquery-2.2.3.min.js"></script>
+    <script src="/thinkphp/Public/assets/js/amazeui.min.js"></script>
     <script type="text/javascript">
         function list(id){ //user函数名 一定要和action中的第三个参数一致上面有
             var id = id;
@@ -37,7 +38,130 @@
     </style>
 </head>
 <body>
-<div id="list"> <!--这里的user和下面js中的test要一致-->
+<div>
+    <nav data-am-widget="menu" class="am-menu  am-menu-offcanvas1"
+
+
+
+         data-am-menu-offcanvas
+    >
+        <a href="javascript: void(0)" class="am-menu-toggle">
+            <i class="am-menu-toggle-icon am-icon-bars"></i>
+        </a>
+
+        <div class="am-offcanvas" >
+            <div class="am-offcanvas-bar">
+
+                <ul class="am-menu-nav am-avg-sm-1">
+                    <li class="am-parent">
+                        <a href="##" class="" >公司</a>
+                        <ul class="am-menu-sub am-collapse  am-avg-sm-2 ">
+                            <li class="">
+                                <a href="##" class="" >公司</a>
+                            </li>
+                            <li class="">
+                                <a href="##" class="" >人物</a>
+                            </li>
+                            <li class="">
+                                <a href="##" class="" >趋势</a>
+                            </li>
+                            <li class="">
+                                <a href="##" class="" >投融资</a>
+                            </li>
+                            <li class="">
+                                <a href="##" class="" >创业公司</a>
+                            </li>
+                            <li class="">
+                                <a href="##" class="" >创业人物</a>
+                            </li>
+                            <li class="am-menu-nav-channel"><a href="##" class="" title="公司">进入栏目 &raquo;</a></li>
+                        </ul>
+                    </li>
+                    <li class="am-parent">
+                        <a href="##" class="" >人物</a>
+                        <ul class="am-menu-sub am-collapse  am-avg-sm-3 ">
+                            <li class="">
+                                <a href="##" class="" >公司</a>
+                            </li>
+                            <li class="">
+                                <a href="##" class="" >人物</a>
+                            </li>
+                            <li class="">
+                                <a href="##" class="" >趋势</a>
+                            </li>
+                            <li class="">
+                                <a href="##" class="" >投融资</a>
+                            </li>
+                            <li class="">
+                                <a href="##" class="" >创业公司</a>
+                            </li>
+                            <li class="">
+                                <a href="##" class="" >创业人物</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="am-parent">
+                        <a href="#c3" class="" >趋势</a>
+                        <ul class="am-menu-sub am-collapse  am-avg-sm-4 ">
+                            <li class="">
+                                <a href="##" class="" >公司</a>
+                            </li>
+                            <li class="">
+                                <a href="##" class="" >人物</a>
+                            </li>
+                            <li class="">
+                                <a href="##" class="" >趋势</a>
+                            </li>
+                            <li class="">
+                                <a href="##" class="" >投融资</a>
+                            </li>
+                            <li class="">
+                                <a href="##" class="" >创业公司</a>
+                            </li>
+                            <li class="">
+                                <a href="##" class="" >创业人物</a>
+                            </li>
+                            <li class="am-menu-nav-channel"><a href="#c3" class="" title="趋势">泥煤 &raquo;</a></li>
+                        </ul>
+                    </li>
+                    <li class="am-parent">
+                        <a href="##" class="" >投融资</a>
+                        <ul class="am-menu-sub am-collapse  am-avg-sm-3 ">
+                            <li class="">
+                                <a href="##" class="" >公司</a>
+                            </li>
+                            <li class="">
+                                <a href="##" class="" >人物</a>
+                            </li>
+                            <li class="">
+                                <a href="##" class="" >趋势</a>
+                            </li>
+                            <li class="">
+                                <a href="##" class="" >投融资</a>
+                            </li>
+                            <li class="">
+                                <a href="##" class="" >创业公司</a>
+                            </li>
+                            <li class="">
+                                <a href="##" class="" >创业人物</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="">
+                        <a href="##" class="" >创业公司</a>
+                    </li>
+                    <li class="">
+                        <a href="##" class="" >创业人物</a>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </nav>
+</div>
+
+
+<div id="list"> <!--这里的list和下面js中的要一致-->
 
     <table  class="am-table am-table-striped am-table-hover am-text-nowrap am-scrollable-horizontal">
         <thead>
@@ -64,5 +188,6 @@
     </ul>
 
 </div>
+
 </body>
 </html>

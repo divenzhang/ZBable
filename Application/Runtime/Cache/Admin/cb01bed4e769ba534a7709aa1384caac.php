@@ -128,18 +128,18 @@
         <div class="separator-50"></div>
 
         <ul class="menu-list">
-            <li <?php if(update == 'index'): ?>class="menu-item actived"<?php else: ?>class="menu-item"<?php endif; ?>>
+            <li <?php if(sorts == 'index'): ?>class="menu-item actived"<?php else: ?>class="menu-item"<?php endif; ?>>
                 <a href="<?php echo U('Admin/index/index');?>"><i class="fa fa-home" aria-hidden="true"></i>首页</a>
             </li>
             <li class="separator-20"></li>
-            <li <?php if(update == 'update'): ?>class="menu-item actived"<?php else: ?>class="menu-item"<?php endif; ?>>
+            <li <?php if(sorts == 'update'): ?>class="menu-item actived"<?php else: ?>class="menu-item"<?php endif; ?>>
                 <a href="javascript:void(0)"><i class="fa fa-cube" aria-hidden="true"></i>首页更新</a>
                 <ul class="sub-menu-list">
                     <li class="sub-menu-item"><a href="<?php echo U('Admin/Modify/index');?>">上传新内容</a></li>
                     <li class="sub-menu-item"><a href="<?php echo U('Admin/Adjust/index');?>">调整首页</a></li>
                 </ul>
             </li>
-            <li <?php if(update == 'sorts'): ?>class="menu-item actived"<?php else: ?>class="menu-item"<?php endif; ?>>
+            <li <?php if(sorts == 'sorts'): ?>class="menu-item actived"<?php else: ?>class="menu-item"<?php endif; ?>>
                 <a href="javascript:void(0)"><i class="glyphicon glyphicon-th" aria-hidden="true"></i>分类管理</a>
                 <ul class="sub-menu-list">
                     <li class="sub-menu-item"><a href="<?php echo U('Admin/Sorts/index');?>">排序</a></li>
@@ -156,7 +156,7 @@
                     <li class="sub-menu-item"><a href="#">404页面</a></li>
                 </ul>
             </li>
-            <li <?php if(update == 'admin'): ?>class="menu-item actived"<?php else: ?>class="menu-item"<?php endif; ?>>
+            <li <?php if(sorts == 'admin'): ?>class="menu-item actived"<?php else: ?>class="menu-item"<?php endif; ?>>
                 <a href="javascript:void(0)"><i class="glyphicon glyphicon-user" aria-hidden="true"></i>管理员</a>
                 <ul class="sub-menu-list">
                     <li class="sub-menu-item"><a href="<?php echo U('Admin/User/index');?>">设置</a></li>
@@ -178,179 +178,32 @@
         <div class="padding">
             
     <ol class="breadcrumb">
-        <li><a href="<?php echo U('Admin/Index/index');?>">首页</a></li>
-        <li class="active">首页内容调整</li>
+        <li><a href="<?php echo U('Home/Index/index');?>">首页</a></li>
+        <li class="active">个人中心</li>
     </ol>
-    <div class="box">
-        <div class="table-header">首页12个图标</div>
-        <table class="table table-bordered table-hover table-responsive" style="width: 90%;margin: 0 5% 0 5%">
+    <div class="box" id="list"><!--这里的list和下面js中的要一致-->
+        <table  class="table table-bordered table-responsive table-hover">
             <thead>
-            <td width="10%">标题</td>
-            <td width="20%">副标题</td>
-            <td width="30%">链接</td>
-            <td width="30%">图标</td>
-            <td width="5%">分类序号</td>
-            <td width="5%">操作</td>
+            <td>名字</td>
+            <td>副标题</td>
+            <td>链接</td>
+            <td>图片链接</td>
+            <td>分类序号</td>
+            <td>操作</td>
             </thead>
-            <tr class="danger">
-                <td colspan="6" style="text-align: center">第一行</td>
-            </tr>
-            <?php if(is_array($one)): $i = 0; $__LIST__ = $one;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$one): $mod = ($i % 2 );++$i;?><tr class="active">
-                    <td><?php echo ($one["name"]); ?></td>
-                    <td><?php echo ($one["briefing"]); ?></td>
-                    <td><?php echo ($one["aurl"]); ?></td>
-                    <td><img src="<?php echo ($one["imgurl"]); ?>" style="width:32px;height:32px;"></td>
-                    <td><?php echo ($one["flag"]); ?></td>
-                    <td><a class="modify-header" id="<?php echo ($one["id"]); ?>" href="javascript:void(0);">修改</a></td>
-                </tr><?php endforeach; endif; else: echo "" ;endif; ?>
-            <tr class="danger">
-                <td colspan="6" style="text-align: center">第二行</td>
-            </tr>
-            <?php if(is_array($two)): $i = 0; $__LIST__ = $two;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$two): $mod = ($i % 2 );++$i;?><tr class="active">
-                    <td><?php echo ($two["name"]); ?></td>
-                    <td><?php echo ($two["briefing"]); ?></td>
-                    <td><?php echo ($two["aurl"]); ?></td>
-                    <td><img src="<?php echo ($two["imgurl"]); ?>" style="width:32px;height:32px;"></td>
-                    <td><?php echo ($two["flag"]); ?></td>
-                    <td><a class="modify-header" id="<?php echo ($two["id"]); ?>" href="javascript:void(0);">修改</a></td>
-                </tr><?php endforeach; endif; else: echo "" ;endif; ?>
-            <tr class="danger">
-                <td colspan="6" style="text-align: center">第三行</td>
-            </tr>
-            <?php if(is_array($three)): $i = 0; $__LIST__ = $three;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$three): $mod = ($i % 2 );++$i;?><tr class="active">
-                    <td><?php echo ($three["name"]); ?></td>
-                    <td><?php echo ($three["briefing"]); ?></td>
-                    <td><?php echo ($three["aurl"]); ?></td>
-                    <td><img src="<?php echo ($three["imgurl"]); ?>" style="width:32px;height:32px;"></td>
-                    <td><?php echo ($three["flag"]); ?></td>
-                    <td><a class="modify-header" id="<?php echo ($three["id"]); ?>" href="javascript:void(0);">修改</a></td>
+
+            <?php if(is_array($list)): $i = 0; $__LIST__ = $list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$list): $mod = ($i % 2 );++$i;?><tr>
+                    <td><?php echo ($list["name"]); ?></td>
+                    <td><?php echo ($list["briefing"]); ?></td>
+                    <td><?php echo ($list["aurl"]); ?></td>
+                    <td><img src="<?php echo ($list["imgurl"]); ?>" style="width:32px;height:32px;"></td>
+                    <td><?php echo ($list["flag"]); ?></td>
+                    <td><a class="" id="<?php echo ($list["id"]); ?>" href="javascript:void(0);">修改</a></td>
                 </tr><?php endforeach; endif; else: echo "" ;endif; ?>
         </table>
-        <p class="bg-info" style="height: 50px;text-align: center;padding-top: 10px;margin-left: 5%;width: 90%">首页轮播图</p>
-        <table class="table table-bordered table-hover table-responsive" style="width: 90%;margin: 0 5% 0 5%">
-            <thead>
-
-                <td>链接地址</td>
-                <td>轮播图地址</td>
-                <td>排序</td>
-                <td>操作</td>
-            </thead>
-            <?php if(is_array($banner)): $i = 0; $__LIST__ = $banner;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$banner): $mod = ($i % 2 );++$i;?><tr class="active">
-                    <td><?php echo ($banner["aurl"]); ?></td>
-                    <td><img src="<?php echo ($banner["imgurl"]); ?>" style="width:96px;height:32px;"></td>
-                    <td><?php echo ($banner["serial"]); ?></td>
-                    <td>
-                        <button type="button" class="btn btn-primary btn-link banbtn" data-toggle="modal"
-                                data-target="#change_ban" data="<?php echo ($banner["id"]); ?>">修改
-                        </button>
-                    </td>
-                </tr><?php endforeach; endif; else: echo "" ;endif; ?>
-
-
-        </table>
+            <!--分页输出-->
+        <nav><ul class="pagination"><li><?php echo ($page); ?></li></ul></nav>
     </div>
-    <!--修改弹出框-->
-    <div class="modify">
-        <div class="modify-title">修改首页<span><a href="javascript:void(0);" class="close-modify">关闭</a></span></div>
-        <form class="am-form1" action="<?php echo U('Admin/Adjust/modify');?>" onsubmit="return $.sub(this);" method="post">
-            <div class="modify-input-content">
-                <div class="modify-input">
-                    <label>标 题：</label>
-                    <input type="hidden" value="" name="btn_id" id="btn_id">
-                    <input type="text" placeholder="请输入标题" name="name" id="name" class="list-input"/>
-                </div>
-                <div class="modify-input">
-                    <label>副标题：</label>
-                    <input type="text" placeholder="请输入副标题" name="briefing" id="briefing" class="list-input"/>
-                </div>
-                <div class="modify-input">
-                    <label>链 接：</label>
-                    <input type="text" placeholder="请输入链接" name="aurl" id="aurl" class="list-input"/>
-                </div>
-                <div class="modify-input">
-                    <label>图片链接：</label>
-                    <input type="text" placeholder="请输入图片链接" name="imgurl" id="imgurl" class="list-input"/>
-                </div>
-                <div class="modify-input">
-                    <label>上传图片：</label>
-                    <div class="form-group">
-                        <input type="hidden" name="new_img" value="" class="type" id="new_img">
-                        <input type="file" name="ico"
-                               onchange="uploadFile('<?php echo U('Admin/Adjust/image');?>','ico-file-2','new_img');"
-                               id="ico-file-2">
-                    </div>
-                </div>
-                <div class="modify-input">
-                    <label>排序位置：</label>
-                    <div class="form-group xf-select">
-                        <select name="sorts" id="sorts1" class="form-control">
-                            <option value="1">第一行</option>
-                            <option value="2">第二行</option>
-                            <option value="3">第三行</option>
-                        </select>
-                    </div>
-                    <div class="form-group xf-select">
-                        <select name="flag" class="form-control" id="flag1">
-                            <option value="1">排序1</option>
-                            <option value="2">排序2</option>
-                            <option value="3">排序3</option>
-                            <option value="4">排序4</option>
-                        </select>
-
-                    </div>
-                </div>
-            </div>
-
-            <div class="modify-button">
-                <button class="btn btn-primary btn-block btn-lg" type="submit">确认修改</button>
-            </div>
-        </form>
-
-
-    </div>
-    <div class="modify-bg"></div>
-    <!--调整banner弹出框-->
-    <div id="change_ban" class="modal fade">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal"><span
-                            aria-hidden="true">&times;</span><span class="sr-only">关闭</span></button>
-                    <h4 class="modal-title">添加账号</h4>
-                </div>
-                <form class="form-horizontal" action="<?php echo U('Admin/Adjust/editban');?>" onsubmit="return $.sub(this);"
-                      method="post" role="form">
-                    <div class="modal-body">
-                        <div class="form-group">
-                            <label class="col-sm-2 control-label">链接</label>
-                            <div class="col-sm-8">
-                                <input name="aurl" class="form-control" id="banner_a" type="text" placeholder="请输入游戏链接">
-                                <input name="id" id="bannerid" class="form-control" type="hidden" >
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <label class="col-sm-2 control-label">排序</label>
-                            <div class="col-sm-10">
-                                <div class="row">
-                                    <div class="col-sm-4">
-                                        <select name="serial" id="serial" class=" form-control">
-                                            <option value="1">排序1</option>
-                                            <option value="2">排序2</option>
-                                            <option value="3">排序3</option>
-                                            <option value="4">排序4</option>
-                                        </select>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
-                            <button type="submit" class="btn btn-primary">确定修改</button>
-                        </div>
-                </form>
-            </div><!-- /.modal-content -->
-        </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
 
         </div>
     </div>

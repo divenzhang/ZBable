@@ -161,7 +161,7 @@
 </div>
 
 
-<div id="list"> <!--这里的user和下面js中的test要一致-->
+<div id="list"> <!--这里的list和下面js中的要一致-->
 
     <table  class="am-table am-table-striped am-table-hover am-text-nowrap am-scrollable-horizontal">
         <thead>

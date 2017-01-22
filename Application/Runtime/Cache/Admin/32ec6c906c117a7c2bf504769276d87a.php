@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width initial-scale=1.0 maximum-scale=1.0 user-scalable=yes">
     <meta name="author" content="XCube" />
     <!--<link rel="stylesheet" type="text/css" href="/thinkphp/Public/Assets/css/adminStyle"/>-->
-    <link rel="stylesheet" TYPE="text/css" href="/thinkphp/Public/assets/css/adminStyle.css">
+    <link rel="stylesheet" type="text/css" href="/thinkphp/Public/assets/css/adminStyle.css">
     <style>
         body{height:100%;background:#16a085;overflow:hidden;}
         canvas{z-index:-1;position:absolute;}
@@ -21,19 +21,13 @@
                 dotColor: '#5cbdaa',
                 lineColor: '#5cbdaa'
             });
-            //验证码
-//  createCode();
-            //测试提交，对接程序删除即可
-//  $(".submit_btn").click(function(){
-//	  location.href="javascrpt:;"/*tpa=http://***index.html*/;
-//	  });
         });
     </script>
 </head>
 <body>
 <dl class="admin_login">
     <dt>
-        <strong>装逼首页后台</strong>
+        <strong>后台管理</strong>
         <em>Niubable System</em>
     </dt>
     <form action="<?php echo U('Admin/Login/doLogin');?>"  method="post" onsubmit="return $.sub(this);">
@@ -52,7 +46,7 @@
                 </div>
                 <!--<canvas class="J_codeimg" id="myCanvas" onclick="createCode()">对不起，您的浏览器不支持canvas，请下载最新版浏览器!</canvas>-->
             </div>
-            <input type="button" value="验证码核验" class="ver_btn" onClick="validate();">
+            <!--<input type="button" value="验证码核验" class="ver_btn" onClick="validate();">-->
         </dd>
         <dd>
             <input type="submit" value="立即登陆" class="submit_btn"/>
@@ -60,7 +54,7 @@
     </form>
 
     <dd>
-        <p>指上XCube© 2016-2017 </p>
+        <p>小方XCube© 2016-2017 </p>
         <p></p>
     </dd>
 </dl>

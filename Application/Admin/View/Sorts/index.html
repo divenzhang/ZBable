@@ -1,0 +1,40 @@
+<extend name="Public/base"/>
+//引入表头内容
+<block name="header">
+    <include file="Public/header"/>
+</block>
+
+<block name="sidebar">
+    <include file="Public/sidebar" nav="sorts"/>
+</block>
+<block name="main">
+    <ol class="breadcrumb">
+        <li><a href="{:U('Home/Index/index')}">首页</a></li>
+        <li class="active">个人中心</li>
+    </ol>
+    <div class="box" id="list"><!--这里的list和下面js中的要一致-->
+        <table  class="table table-bordered table-responsive table-hover">
+            <thead>
+            <td>名字</td>
+            <td>副标题</td>
+            <td>链接</td>
+            <td>图片链接</td>
+            <td>分类序号</td>
+            <td>操作</td>
+            </thead>
+
+            <volist name="list" id="list">
+                <tr>
+                    <td>{$list.name}</td>
+                    <td>{$list.briefing}</td>
+                    <td>{$list.aurl}</td>
+                    <td><img src="{$list.imgurl}" style="width:32px;height:32px;"></td>
+                    <td>{$list.flag}</td>
+                    <td><a class="" id="{$list.id}" href="javascript:void(0);">修改</a></td>
+                </tr>
+            </volist>
+        </table>
+            <!--分页输出-->
+        <nav><ul class="pagination"><li>{$page}</li></ul></nav>
+    </div>
+</block>
