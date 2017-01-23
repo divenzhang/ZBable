@@ -10,7 +10,7 @@
 <block name="main">
     <ol class="breadcrumb">
         <li><a href="{:U('Home/Index/index')}">首页</a></li>
-        <li class="active">个人中心</li>
+        <li class="active">列表</li>
     </ol>
     <div class="box" id="list"><!--这里的list和下面js中的要一致-->
         <table  class="table table-bordered table-responsive table-hover">
@@ -30,11 +30,75 @@
                     <td>{$list.aurl}</td>
                     <td><img src="{$list.imgurl}" style="width:32px;height:32px;"></td>
                     <td>{$list.flag}</td>
-                    <td><a class="" id="{$list.id}" href="javascript:void(0);">修改</a></td>
+                    <td>
+                        <button type="button" class="btn btn-primary btn-link banbtn" data-toggle="modal" id="{$list.id}">修改
+                        </button>
+                    </td>
                 </tr>
             </volist>
         </table>
             <!--分页输出-->
-        <nav><ul class="pagination"><li>{$page}</li></ul></nav>
+        <div class="page">
+            <nav><ul class="pagination"><li style="border: 1px solid #0e90d28">{$page}</li></ul></nav>
+        </div>
+
+    </div>
+    <!-- 编辑弹出框Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+         aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span
+                            class="sr-only">Close</span></button>
+                    <h4 class="modal-title" id="myModalLabel">更改密码</h4>
+                </div>
+                <form class="form-horizontal" action="{:U('Admin/Sorts/')}" onsubmit="return $.sub(this);" method="post" role="form">
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label" for="a_url">游戏链接</label>
+                            <div class="col-sm-10">
+                                <input name="a_url" class="form-control" type="text" id="a_url" placeholder="请填写游戏链接">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label" for="img_url">图片链接</label>
+                            <div class="col-sm-10">
+
+                                <input name="img_url"  class="form-control" type="text" id="img_url" placeholder="图片地址,上传图片则忽略此栏">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label" for="question">排序</label>
+                            <div class="col-sm-10">
+                                <select name="new_sorts" id="" class="form-control">
+                                    <option id="question" value="1">排序1</option>
+                                    <option value="2">排序2</option>
+                                    <option value="3">排序3</option>
+                                    <option value="4">排序4</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label" for="ico-file-3">上传图标</label>
+                        <div class="col-sm-10">
+                            <input type="hidden" name="image" value="" class="type" id="banner_img">
+                            <div>
+                                <button type="button" class="btn btn-success">
+                                    <i class="glyphicon glyphicon-open">选择要上传的图标</i>
+                                </button>
+                            </div>
+                            <input style="width: 190px;height:40px; position: absolute;top:-6px;left: -4px;opacity: 0; filter:alpha(opacity=0)" class="btn-lg" name="banner" type="file" onchange="uploadFile('{:U('Admin/Adjust/image')}','ico-file-3','banner_img');" id="ico-file-3" >
+                            <p class="help-block" style="color: #c7254e">请上传700*230图片</p>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+                        <button type="submit" class="btn btn-primary">确定修改</button>
+                    </div>
+                </form>
+            </div>
+        </div>
     </div>
 </block>

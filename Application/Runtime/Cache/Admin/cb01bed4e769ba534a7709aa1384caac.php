@@ -202,7 +202,10 @@
                 </tr><?php endforeach; endif; else: echo "" ;endif; ?>
         </table>
             <!--分页输出-->
-        <nav><ul class="pagination"><li><?php echo ($page); ?></li></ul></nav>
+        <div class="page">
+            <nav><ul class="pagination"><li style="border: 1px solid #0e90d28"><?php echo ($page); ?></li></ul></nav>
+        </div>
+
     </div>
 
         </div>
