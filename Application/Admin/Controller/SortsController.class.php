@@ -31,4 +31,10 @@ class SortsController extends Controller
         $this->assign('page', $Page->show());
         $this->display();
     }
+    public function doNew(){
+        $arr =I();
+        $flag =$arr['row']*10+$arr['sorts'];
+        $Obj =M('index_info');
+        $Obj->where("flag=$flag")->setField('flag', '');
+    }
 }

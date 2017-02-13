@@ -48,11 +48,6 @@
     <div class="sim-btn sim-button"><span>关注我们</span></div>
     <ul class="am-slides">
       <?php if(is_array($banner)): $i = 0; $__LIST__ = $banner;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$ban): $mod = ($i % 2 );++$i;?><li><a href="<?php echo ($ban["aurl"]); ?>"><img src="<?php echo ($ban["imgurl"]); ?>"/></a></li><?php endforeach; endif; else: echo "" ;endif; ?>
-      <!--<li><a href="http://JkYFXJwxXFL.solyx.cn/index.php/s/kYFXJwxXFL"><img src="/thinkphp/Public/images/index_banner1.jpg"></a></li>-->
-      <!--<li><a href="http://zb.jentmc.cn/zb_durex/index.php"><img src="/thinkphp/Public/images/index_banner0.jpg"></a></li>-->
-      <!--<li><a href="http://zb.jentmc.cn/zb_zz/"><img src="/thinkphp/Public/images/index_banner2.jpg"></a></li>-->
-      <!--<li><a href="http://zb.jentmc.cn/zb_cqxk/index.php"><img src="/thinkphp/Public/images/index_banner.jpg"></a></li>-->
-
     </ul>
   </div>
   <div class="top_line">
@@ -116,7 +111,6 @@
 </div>
 <script src="/thinkphp/Public/assets/js/jquery-2.2.3.min.js"></script>
 <script src="/thinkphp/Public/assets/js/dropload.js"></script>
-<!--<script src="/thinkphp/Public/assets/js/loadinglist.js"></script>-->
 <!--滚东西悬浮-->
 <script type="text/javascript">
   var head=$(".head").height();
@@ -137,20 +131,6 @@
 
 </script>
 <script type="text/javascript">
-//  $.ajax({
-//    type: 'GET',
-//    url: '/thinkphp/index.php/Niubable/Index/getListJsonInfo/',
-//    dataType: 'json',
-//    success: function(data){
-//      console.log(data);
-//    },
-//    error: function(xhr, type){
-//      alert('Ajax error!');
-//      // 即使加载出错，也得重置
-//      me.resetload();
-//    }
-//  });
-
   $(function(){
     var itemIndex = 0;
     var tab1LoadEnd = false;

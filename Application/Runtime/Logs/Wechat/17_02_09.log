@@ -1,0 +1,2418 @@
+[ 2017-02-09T10:18:33+08:00 ] ::1 /thinkphp/wechat
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:18:37+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 29 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 29 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 29 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:20:42+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:20:44+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:28:09+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:28:09+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:28:10+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:28:11+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:30:01+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:30:02+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:30:02+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:30:02+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:30:02+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:30:02+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:30:03+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:31:17+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:31:18+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:31:18+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:31:18+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:31:18+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:31:18+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:31:19+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:31:19+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:31:19+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-02-09T10:31:20+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:31:20+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:31:20+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:31:20+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:31:21+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:31:21+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-02-09T10:31:52+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:31:53+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:31:53+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:31:53+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:31:53+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:31:53+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:31:54+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:31:54+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:31:54+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:31:54+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:31:54+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:33:46+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:33:47+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:33:47+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:33:47+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:33:48+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:33:48+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:33:48+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:33:49+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:33:49+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:33:51+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:33:51+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:33:52+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:33:52+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:33:52+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:33:52+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:33:53+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:33:53+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:33:54+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:33:54+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:33:54+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:33:54+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:33:54+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:33:55+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:33:55+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:34:18+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: Method wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T10:34:25+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Method wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T10:35:28+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: Method wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T10:35:28+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Method wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T10:35:29+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Method wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T10:35:29+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Method wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T10:35:30+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Method wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T10:35:30+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: Method wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T10:35:30+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Method wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T10:35:31+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: Method wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T10:35:31+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: Method wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T10:35:31+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: Method wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T10:35:31+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: Method wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T10:36:01+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:36:02+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:36:45+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:36:46+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:36:46+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:36:47+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:36:48+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:36:48+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:36:49+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:36:49+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:36:49+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:36:50+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:36:50+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-02-09T10:36:50+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:36:50+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:36:51+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:37:18+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:37:19+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:37:19+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:37:19+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:37:19+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:37:19+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:37:20+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:37:20+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:37:20+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:37:20+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:37:21+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:37:21+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:37:21+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:37:21+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:37:21+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:37:21+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:37:21+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:37:21+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:37:22+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:37:22+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:37:22+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:37:23+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:37:23+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:37:23+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:38:36+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:38:37+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:38:37+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:38:38+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:38:38+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:38:38+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:38:38+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:38:39+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:38:39+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:38:39+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:38:40+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:39:39+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:39:40+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:39:40+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T10:39:41+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-02-09T10:39:41+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:39:42+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T10:39:42+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-02-09T10:41:06+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T10:41:10+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T10:41:10+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T10:41:10+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T10:41:11+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T10:41:11+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T10:41:11+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T10:41:12+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:09:03+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:09:04+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:09:04+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:09:05+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:09:05+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:09:05+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:09:06+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:09:06+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:09:06+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:12:45+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:12:46+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:12:46+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:12:47+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:12:48+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:12:49+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:12:49+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:12:50+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:12:50+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:12:51+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:12:51+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:12:51+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:12:52+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:13:21+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:13:21+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:13:21+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:13:22+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:13:22+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:13:22+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] include_once(C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php): failed to open stream: No such file or directory C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+NOTIC: [2] include_once(): Failed opening 'C:\xampp\htdocs\thinkphp\Application\Wechat\Controller/wxBizMsgCrypt.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\BaseWxController.class.php 第 52 行.
+ERR: Method Wechat\Controller\EventController::__call() does not exist
+
+[ 2017-02-09T11:43:29+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T11:43:30+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T11:43:30+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T11:43:31+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T11:43:31+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T11:43:31+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T11:43:31+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T11:43:31+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T11:43:32+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T11:43:32+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T15:00:25+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T15:03:09+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T15:03:09+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T15:03:10+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T15:03:11+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T15:03:11+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T15:03:11+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T15:03:11+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T15:03:11+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T15:03:12+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T15:03:13+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T15:03:14+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T15:03:14+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T15:03:29+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T15:03:29+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T15:03:29+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T15:03:30+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T15:03:30+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T15:03:30+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T15:03:31+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T15:03:31+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] mcrypt_generic_init(): Key size is 0 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Iv size incorrect; supplied length: 0, needed: 16 C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic_init(): Key length incorrect C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 87 行.
+NOTIC: [2] mcrypt_generic(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 89 行.
+NOTIC: [2] mcrypt_generic_deinit(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 90 行.
+NOTIC: [2] mcrypt_module_close(): 30 is not a valid MCrypt resource C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Org\Util\pkcs7Encoder.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T17:04:27+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T17:04:50+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0050s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T17:05:42+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0050s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T17:05:43+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0040s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T17:05:43+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0050s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T17:05:43+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0040s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T17:05:43+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0040s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T17:05:43+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0030s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T17:12:07+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0050s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T17:12:08+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0030s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T17:12:08+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0060s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T17:12:09+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0060s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T17:12:09+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0050s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T17:12:09+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0050s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T17:12:09+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0040s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-02-09T17:12:09+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0060s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T17:12:10+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0050s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T17:12:10+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0050s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T17:12:10+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0060s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T17:12:10+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0040s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T17:12:11+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0050s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T17:12:11+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0050s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T17:12:11+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0050s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T17:12:12+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0060s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T17:12:12+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0050s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T17:12:13+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0040s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T17:12:13+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0050s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-02-09T17:12:13+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0050s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T17:12:14+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0050s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T17:12:14+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0050s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-09T17:12:15+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0050s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-09T17:12:16+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0050s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`encodingAesKey`) VALUES (NULL,'wx44c377ff043ee764','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

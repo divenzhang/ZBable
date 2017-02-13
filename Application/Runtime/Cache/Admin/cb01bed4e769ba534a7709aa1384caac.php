@@ -55,6 +55,29 @@
             /*margin-left: 109px;*/
             /*margin-top: 4px;*/
         }
+        .page {
+            display: inline-block;
+            margin: 20px 0;
+            text-align: center;
+        }
+        .page span.current {
+            background-color: #6faed9;
+            border: 1px solid #6faed9;
+            color: #ffffff;
+            cursor: not-allowed;
+            margin: 0 2.5px;
+            padding: 6px 12px;
+            text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+        }
+        .page a {
+            background-color: #fafafa;
+            border: 1px solid #e0e8eb;
+            color: #2283c5;
+            margin: 0 2.5px;
+            padding: 6px 12px;
+            position: relative;
+            text-decoration: none;
+        }
     </style>
 </head>
 <body>
@@ -142,8 +165,8 @@
             <li <?php if(sorts == 'sorts'): ?>class="menu-item actived"<?php else: ?>class="menu-item"<?php endif; ?>>
                 <a href="javascript:void(0)"><i class="glyphicon glyphicon-th" aria-hidden="true"></i>分类管理</a>
                 <ul class="sub-menu-list">
-                    <li class="sub-menu-item"><a href="<?php echo U('Admin/Sorts/index');?>">排序</a></li>
-                    <li class="sub-menu-item"><a href="#">上首页</a></li>
+                    <li class="sub-menu-item"><a href="">排序</a></li>
+                    <li class="sub-menu-item"><a href="<?php echo U('Admin/Sorts/index');?>">上首页</a></li>
                 </ul>
             </li>
 
@@ -178,8 +201,8 @@
         <div class="padding">
             
     <ol class="breadcrumb">
-        <li><a href="<?php echo U('Home/Index/index');?>">首页</a></li>
-        <li class="active">个人中心</li>
+        <li><a href="<?php echo U('Admin/Index/index');?>">首页</a></li>
+        <li class="active">列表</li>
     </ol>
     <div class="box" id="list"><!--这里的list和下面js中的要一致-->
         <table  class="table table-bordered table-responsive table-hover">
@@ -198,14 +221,61 @@
                     <td><?php echo ($list["aurl"]); ?></td>
                     <td><img src="<?php echo ($list["imgurl"]); ?>" style="width:32px;height:32px;"></td>
                     <td><?php echo ($list["flag"]); ?></td>
-                    <td><a class="" id="<?php echo ($list["id"]); ?>" href="javascript:void(0);">修改</a></td>
+                    <td>
+                        <button type="button" class="btn btn-primary btn-link" data-toggle="modal"
+                        data-target="#ModifyModal" data="<?php echo U('Admin/User/question');?>">上架
+                        </button>
+                    </td>
                 </tr><?php endforeach; endif; else: echo "" ;endif; ?>
         </table>
             <!--分页输出-->
         <div class="page">
-            <nav><ul class="pagination"><li style="border: 1px solid #0e90d28"><?php echo ($page); ?></li></ul></nav>
+           <?php echo ($page); ?>
         </div>
 
+    </div>
+    <!-- 编辑弹出框Modal -->
+    <div class="modal fade" id="ModifyModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+         aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span
+                            class="sr-only">Close</span></button>
+                    <h4 class="modal-title" id="myModalLabel">上新首页</h4>
+                </div>
+                <form class="form-horizontal" action="<?php echo U('Admin/Sorts/modify');?>" onsubmit="return $.sub(this);" method="post" role="form">
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label">排序</label>
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <select name="row" class=" form-control">
+                                        <option selected value="1">第一行</option>
+                                        <option value="2">第二行</option>
+                                        <option value="3">第三行</option>
+                                        <option value="4">第四行</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-3">
+                                    <select name="sorts" class=" form-control">
+                                        <option selected value="1">排序1</option>
+                                        <option value="2">排序2</option>
+                                        <option value="3">排序3</option>
+                                        <option value="4">排序4</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+                        <button type="submit" class="btn btn-primary">确定修改</button>
+                    </div>
+                </form>
+            </div>
+        </div>
     </div>
 
         </div>

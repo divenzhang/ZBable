@@ -20,6 +20,6 @@ return array(
 
 
     'DEFAULT_FILTER'        =>  'htmlspecialchars,trim', // 默认参数过滤方法 用于I函数...
-    'MODULE_ALLOW_LIST'    =>    array('Home','Admin','Niubable'),
+    'MODULE_ALLOW_LIST'    =>    array('Home','Admin','Wechat'),
     'DEFAULT_MODULE'       =>    'Home',
 );

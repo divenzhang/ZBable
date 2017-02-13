@@ -1,0 +1,2131 @@
+[ 2017-02-10T14:42:36+08:00 ] ::1 /thinkphp/wechat
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T14:42:40+08:00 ] ::1 /thinkphp/wechat/hint
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T15:01:35+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T16:11:52+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 22 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T16:11:55+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 22 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T16:12:26+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T16:12:27+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T16:12:27+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T16:12:27+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T16:12:27+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T16:12:27+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T16:12:49+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 22 行.
+NOTIC: [8] Array to string conversion C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T16:12:50+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 22 行.
+NOTIC: [8] Array to string conversion C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T16:13:03+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T16:14:23+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T16:14:23+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T16:14:24+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T16:14:25+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T16:14:25+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T16:14:25+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T16:14:26+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T16:14:26+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T16:14:26+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-02-10T16:14:57+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T16:15:51+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T16:16:16+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T16:16:59+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Illegal string offset 'component_access_token' C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\HintController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T16:17:24+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T16:17:43+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T16:18:13+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T16:18:16+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T16:18:16+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T16:18:17+08:00 ] ::1 /thinkphp/wechat/hint/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:10:12+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 26 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:29:37+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:31:27+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:31:27+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:31:27+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:31:28+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:31:29+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:31:29+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:33:44+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 40 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:33:44+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 40 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:33:45+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 40 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:33:45+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 40 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:33:46+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 40 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:33:46+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 40 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:33:46+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 40 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:33:46+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 40 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:33:47+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 40 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:33:47+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 40 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:33:47+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 40 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:42:04+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 93 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 96 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:42:16+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 93 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 96 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:47:01+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:47:40+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 40 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:47:40+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 40 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:47:40+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 40 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:47:41+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 40 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:47:41+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 40 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:47:41+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 40 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:47:41+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 40 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:47:42+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 40 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:33+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:49:34+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:35+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:35+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:35+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:35+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:49:36+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:36+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:36+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:49:36+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:49:37+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:38+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:38+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-02-10T18:49:38+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:39+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:39+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:39+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-02-10T18:49:39+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:49:40+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:40+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:40+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:40+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:49:41+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:41+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:41+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:41+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:41+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:42+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:49:42+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:53:31+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:53:32+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:53:32+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:53:32+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:53:32+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:53:32+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:53:33+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:53:33+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:53:33+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:55:26+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 54 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0020s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`token`,`encodingAesKey`,`time`,`remark`) VALUES (NULL,'wx44c377ff043ee764','hZJ6fC3Rr3BHc3jR683hSf13p3s7lfbr','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw','2017-02-10 18:55:26','') [ RunTime:0.0040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:55:26+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 54 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0020s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`token`,`encodingAesKey`,`time`,`remark`) VALUES (NULL,'wx44c377ff043ee764','hZJ6fC3Rr3BHc3jR683hSf13p3s7lfbr','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw','2017-02-10 18:55:26','') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:55:27+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 54 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0020s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`token`,`encodingAesKey`,`time`,`remark`) VALUES (NULL,'wx44c377ff043ee764','hZJ6fC3Rr3BHc3jR683hSf13p3s7lfbr','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw','2017-02-10 18:55:27','') [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T18:55:27+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 54 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0020s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`token`,`encodingAesKey`,`time`,`remark`) VALUES (NULL,'wx44c377ff043ee764','hZJ6fC3Rr3BHc3jR683hSf13p3s7lfbr','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw','2017-02-10 18:55:27','') [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T18:55:27+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 54 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `xf_verify` [ RunTime:0.0020s ]
+SQL: INSERT INTO `xf_verify` (`component_verify_ticket`,`appId`,`token`,`encodingAesKey`,`time`,`remark`) VALUES (NULL,'wx44c377ff043ee764','hZJ6fC3Rr3BHc3jR683hSf13p3s7lfbr','kjJlI5Z3ycmi8lWEIHwOcUF42QwyZw1tBl9WHJqwDUw','2017-02-10 18:55:27','') [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:16:34+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T19:16:34+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:16:34+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T19:16:34+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:16:34+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T19:16:35+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:16:35+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:16:35+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:16:35+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:16:36+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:16:36+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:16:36+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:16:36+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:16:36+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 36 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T19:17:43+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:17:44+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:17:45+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T19:17:45+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:17:45+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:17:46+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:17:46+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T19:17:46+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:17:46+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T19:17:47+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:17:47+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:17:47+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-10T19:17:48+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:18:47+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T19:18:47+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T19:18:47+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:18:47+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T19:18:48+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T19:18:48+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T19:18:48+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:18:48+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:18:48+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:18:49+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:18:49+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T19:19:10+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:20:01+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:20:01+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:20:01+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T19:20:02+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:20:02+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-02-10T19:20:02+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-02-10T19:20:02+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T19:20:02+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:20:03+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T19:20:03+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T19:27:05+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:27:05+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T19:27:05+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:27:06+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:27:06+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:27:06+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T19:27:06+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:27:06+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:27:07+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:27:08+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:33:16+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 42 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:33:19+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 42 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:33:19+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 42 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-10T19:33:19+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 42 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-10T19:33:20+08:00 ] ::1 /thinkphp/wechat/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] DOMDocument::loadXML(): Empty string supplied as input C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 38 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 41 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\EventController.class.php 第 42 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
