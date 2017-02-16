@@ -55,6 +55,29 @@
             /*margin-left: 109px;*/
             /*margin-top: 4px;*/
         }
+        .page {
+            display: inline-block;
+            margin: 20px 0;
+            text-align: center;
+        }
+        .page span.current {
+            background-color: #6faed9;
+            border: 1px solid #6faed9;
+            color: #ffffff;
+            cursor: not-allowed;
+            margin: 0 2.5px;
+            padding: 6px 12px;
+            text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+        }
+        .page a {
+            background-color: #fafafa;
+            border: 1px solid #e0e8eb;
+            color: #2283c5;
+            margin: 0 2.5px;
+            padding: 6px 12px;
+            position: relative;
+            text-decoration: none;
+        }
     </style>
 </head>
 <body>
@@ -142,8 +165,8 @@
             <li <?php if(index == 'sorts'): ?>class="menu-item actived"<?php else: ?>class="menu-item"<?php endif; ?>>
                 <a href="javascript:void(0)"><i class="glyphicon glyphicon-th" aria-hidden="true"></i>分类管理</a>
                 <ul class="sub-menu-list">
-                    <li class="sub-menu-item"><a href="<?php echo U('Admin/Sorts/index');?>">排序</a></li>
-                    <li class="sub-menu-item"><a href="#">上首页</a></li>
+                    <li class="sub-menu-item"><a href="">排序</a></li>
+                    <li class="sub-menu-item"><a href="<?php echo U('Admin/Sorts/index');?>">上首页</a></li>
                 </ul>
             </li>
 

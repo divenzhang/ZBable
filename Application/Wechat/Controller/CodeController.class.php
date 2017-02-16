@@ -15,21 +15,22 @@ class CodeController extends Controller
         function http_post_json($url, $jsonStr)
         {
             $ch = curl_init();
-            curl_setopt($ch, CURLOPT_POST, 1);
-            curl_setopt($ch, CURLOPT_URL, $url);
-            curl_setopt($ch, CURLOPT_POSTFIELDS, $jsonStr);
-            curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-            curl_setopt($ch, CURLOPT_HTTPHEADER, array(
-                    'Content-Type: application/json; charset=utf-8',
-                    'Content-Length: ' . strlen($jsonStr)
-                )
-            );
+            curl_setopt ( $ch, CURLOPT_URL, $url );
+            curl_setopt ( $ch, CURLOPT_POST, 1 );
+            curl_setopt ( $ch, CURLOPT_HEADER, 0 );
+            curl_setopt ( $ch, CURLOPT_RETURNTRANSFER, 1 );
+            curl_setopt ( $ch, CURLOPT_POSTFIELDS, $jsonStr);
+            curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
             $response = curl_exec($ch);
+            if (curl_errno($ch)) {
+                print curl_error($ch);
+            }
+            curl_close($ch);
             $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
             return array($httpCode, $response);
         }
 
-        $url = "https://api.weixin.qq.com/cgi-bin/component/api_create_preauthcode?component_access_token=TER4o_UDMuAFfv4MVWT3qjQzq8d0LUSYENOhmVnjhKRxuTnvmBdKyY2I7l5uf4zC2h0F7t_cjRvC7sxywuuZ-tAarqfQLnNIN-ODBPRJq6H0RuLIuHZNhghpvxNINH8IXBNbACAGKW";
+        $url = "https://api.weixin.qq.com/cgi-bin/component/api_create_preauthcode?component_access_token=07s2WQlfiULIopd7PP4-sOj8Pq6WlgiAWLWWyB3em4LVVqkXSR6GbVMdNsnjFFQdOlOg5gQvEQb6OpuTQSW-TYBTHUgxDkWlEqTTM8RK8-kUCFiAEAHPS";
         $jsonStr = json_encode(array(
             'component_appid'=>"wx44c377ff043ee764"
         ));
