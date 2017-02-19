@@ -30,20 +30,14 @@ class CodeController extends Controller
             return array($httpCode, $response);
         }
 
-        $url = "https://api.weixin.qq.com/cgi-bin/media/upload?access_token=4Y6d1pJ4c-70ALyyCLD9cxSgAh_aBSrxsQLrpXoyBe8BTtCXmoVTPS1KTU_DnTuPUAV-lBdSxgBMRXC4Jposjiux5STY__kUCd-oRYSpz9wa-Hv0OqFippXqlDSZbNpaWMZcAKDHXK&type=image";
-//        $jsonStr = json_encode(array(
-//            'component_appid'=>"wx44c377ff043ee764"
-//        ));
-        $file=dirname(__FILE__).'/121.jpg';
-//        echo $file;
-        $data['media']='@'.$file;
+        $url = "https://api.weixin.qq.com/cgi-bin/component/api_create_preauthcode?component_access_token=07s2WQlfiULIopd7PP4-sOj8Pq6WlgiAWLWWyB3em4LVVqkXSR6GbVMdNsnjFFQdOlOg5gQvEQb6OpuTQSW-TYBTHUgxDkWlEqTTM8RK8-kUCFiAEAHPS";
+        $jsonStr = json_encode(array(
+            'component_appid'=>"wx44c377ff043ee764"
+        ));
 //       http_post_json($url, $jsonStr);
-        $json=http_post_json($url, $data);
-//        dump($json);
-        echo $json[1];
+        $json=http_post_json($url, $jsonStr);
+        dump($json);
+        echo '解析：'.$json[1];
 
-    }
-    public function hello(){
-        $json ='{"type":"image","media_id":"lMO8o_pXI_jHBu-gtq99YSeSaVcYA-DeyFPWXccr-FqwaeWHpmC7ne23bH96PWJg","created_at":1487326282}';
     }
 }

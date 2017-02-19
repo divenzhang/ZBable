@@ -1,0 +1,143 @@
+[ 2017-02-18T11:22:35+08:00 ] ::1 /thinkphp/wechat/info/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `xf_authorization` [ RunTime:0.0040s ]
+SQL: SELECT `authorizer_access_token` FROM `xf_authorization` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\InfoController.class.php 第 172 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-18T11:24:46+08:00 ] ::1 /thinkphp/wechat/info/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `xf_authorization` [ RunTime:0.0020s ]
+SQL: SELECT `authorizer_access_token` FROM `xf_authorization` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\InfoController.class.php 第 172 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-18T11:27:04+08:00 ] ::1 /thinkphp/wechat/info/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `xf_authorization` [ RunTime:0.0030s ]
+SQL: SELECT `authorizer_access_token` FROM `xf_authorization` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\InfoController.class.php 第 172 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-02-18T11:35:21+08:00 ] ::1 /thinkphp/wechat/info/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `xf_authorization` [ RunTime:0.0030s ]
+SQL: SELECT `authorizer_access_token` FROM `xf_authorization` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\InfoController.class.php 第 172 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-02-18T12:06:18+08:00 ] ::1 /thinkphp/wechat/info/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `xf_authorization` [ RunTime:0.0030s ]
+SQL: SELECT `authorizer_access_token` FROM `xf_authorization` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\InfoController.class.php 第 158 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-18T12:08:58+08:00 ] ::1 /thinkphp/wechat/info/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `xf_authorization` [ RunTime:0.0020s ]
+SQL: SELECT `authorizer_access_token` FROM `xf_authorization` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\InfoController.class.php 第 161 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\InfoController.class.php 第 119 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-18T12:09:46+08:00 ] ::1 /thinkphp/wechat/info/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `xf_authorization` [ RunTime:0.0020s ]
+SQL: SELECT `authorizer_access_token` FROM `xf_authorization` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\InfoController.class.php 第 162 行.
+NOTIC: [8] Trying to get property of non-object C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\InfoController.class.php 第 120 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-18T12:10:51+08:00 ] ::1 /thinkphp/wechat/info/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `xf_authorization` [ RunTime:0.0020s ]
+SQL: SELECT `authorizer_access_token` FROM `xf_authorization` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\InfoController.class.php 第 163 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-18T14:52:19+08:00 ] ::1 /thinkphp/wechat/info/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `xf_authorization` [ RunTime:0.0060s ]
+SQL: SELECT `authorizer_access_token` FROM `xf_authorization` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\InfoController.class.php 第 168 行.
+NOTIC: [8] Undefined property: stdClass::$media_id C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\InfoController.class.php 第 126 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-02-18T15:10:16+08:00 ] ::1 /thinkphp/wechat/info/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `xf_authorization` [ RunTime:0.0050s ]
+SQL: SELECT `authorizer_access_token` FROM `xf_authorization` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument C:\xampp\htdocs\thinkphp\Application\Wechat\Controller\InfoController.class.php 第 179 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

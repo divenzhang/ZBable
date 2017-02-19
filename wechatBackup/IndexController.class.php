@@ -7,6 +7,7 @@
  * Time: 11:42
  */
 namespace wechat\Controller;
+
 use Think\Controller;
 
 class IndexController extends Controller
@@ -19,6 +20,7 @@ class IndexController extends Controller
     public function jump(){
         $url ='http://jentmc.cn/wechat/';
         $auth_code = empty($_GET['auth_code']) ? "" : trim($_GET['auth_code']);
+//        $expires_in = empty($_GET['expires_in']) ? "" : trim($_GET['expires_in']);
         $this->authorization_info($auth_code);
         redirect("$url", 0, '页面跳转中...');
     }
@@ -35,19 +37,16 @@ class IndexController extends Controller
             "authorization_code"=>$auth_code
         ));
         $json = $this->http_post_json($url, $jsonStr);
+//        dump("djson:".$json);
+//        print_r("two".$json[1]);
+//        print_r('json:'.$json."\n");
         $obj = json_decode($json[1]);
+//        print_r('obj:'.$obj."\n");
         $auth_info=$obj->authorization_info;
         $data['authorizer_appid']=$auth_info->authorizer_appid;
         $data['authorizer_access_token']=$auth_info->authorizer_access_token;
         $data['authorizer_refresh_token']=$auth_info->authorizer_refresh_token;
-        $data['time']=date('Y-m-d H:i:s',time());
-        $exist=$authorization->where('authorizer_appid="'.$data['authorizer_appid'].'"')->getField('authorizer_appid');
-        if ($exist){
-            $authorization->where('authorizer_appid="'.$data['authorizer_appid'].'"')->save($data);
-        }else{
-            $authorization->add($data);
-        }
-
+        $authorization->where('id =1')->save($data);
 
     }
 //获取登录二维码
@@ -61,8 +60,8 @@ class IndexController extends Controller
         $time_diff = strtotime($time) - strtotime($code_time);
         if ($time_diff > 1800) {
             $verify = $verdb->find();
-            $url = 'https://api.weixin.qq.com/cgi-bin/component/api_create_preauthcode?component_access_token='.$verify['component_access_token'].'';
-            echo $url;
+//            print_r($verify);
+            $url = 'https://api.weixin.qq.com/cgi-bin/component/api_create_preauthcode?component_access_token=' . $verify['component_access_token'] . '';
             $jsonStr = json_encode(array(
                 'component_appid' => $verify['appid']
             ));
@@ -70,9 +69,11 @@ class IndexController extends Controller
             $obj = json_decode($json[1]);
             $data['pre_auth_code'] = $obj->pre_auth_code;
             $data['time'] = date('Y-m-d H:i:s', time());
+//            echo 'per:' . $data['pre_auth_code'];
             if (!empty($data['pre_auth_code'])){
                 $auth->where('id=1')->save($data);
                 $pre_code =$auth->getField('pre_auth_code');
+//            print_r($pre_code);
                 $this->qrcode($pre_code, $verify['appid']);
             }else{
                 echo 'null';
@@ -96,6 +97,8 @@ class IndexController extends Controller
     //网络请求方法
     function http_post_json($url, $jsonStr)
     {
+//        echo 'url:' . $url;
+//        dump($jsonStr);
         $ch = curl_init();
         curl_setopt($ch, CURLOPT_URL, $url);
         curl_setopt($ch, CURLOPT_POST, 1);
@@ -104,6 +107,7 @@ class IndexController extends Controller
         curl_setopt($ch, CURLOPT_POSTFIELDS, $jsonStr);
         curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
         $response = curl_exec($ch);
+//        print_r('res:'.$response);
         if (curl_errno($ch)) {
             print curl_error($ch);
         }

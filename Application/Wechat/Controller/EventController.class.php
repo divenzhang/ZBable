@@ -78,36 +78,36 @@ class EventController extends Controller
 
     }
 
-    public function test()
-    {
-        $token = 'hZJ6fC3Rr3BHc3jR683hSf13p3s7lfbr';
-        $this->token=$token;
-        echo 'token:'.$this->token."\n";
-        $component_verify_ticket='ticket@@@dqi9F0hd9Sjw5vVoFijT-Zbl18qTVoxfH00PTyjCCR0NqqiehuVH_cvZMxXmOCuW7mnpKuUWiDT7Qv6U2rrkvg';
-        $data['token'] = $component_verify_ticket;
-        $data['time'] =date('Y-m-d H:i:s', time());
-        $sql = M('verify');
-        $flag = $sql->where('token="'.$token.'"')->limit(1)->select();
-        if ($flag) {
-//            echo 'ddd';
-            $sql = M('verify');
-            $update = array('component_verify_ticket'=>$component_verify_ticket,'time'=>$data['time']);
-            $result = $sql->where('token="'.$token.'"')->setField($update);
-            $sql->where('token="'.$token.'"')->setInc('verify_ticket_number');
-            $num = $sql->where('token="'.$token.'"')->getField('verify_ticket_number');
-            echo $num.'click';
-            if ($num > 10) {
-                $this->getAccessToken();
-                $sql->where('token="'.$token.'"')->setField('verify_ticket_number', '');
-            }
-        } else {
-            $result = $sql->add($data);
-        }
-        if ($result) {
-            echo 'success';
-        }
-
-    }
+//    public function test()
+//    {
+//        $token = 'hZJ6fC3Rr3BHc3jR683hSf13p3s7lfbr';
+//        $this->token=$token;
+//        echo 'token:'.$this->token."\n";
+//        $component_verify_ticket='ticket@@@dqi9F0hd9Sjw5vVoFijT-Zbl18qTVoxfH00PTyjCCR0NqqiehuVH_cvZMxXmOCuW7mnpKuUWiDT7Qv6U2rrkvg';
+//        $data['token'] = $component_verify_ticket;
+//        $data['time'] =date('Y-m-d H:i:s', time());
+//        $sql = M('verify');
+//        $flag = $sql->where('token="'.$token.'"')->limit(1)->select();
+//        if ($flag) {
+////            echo 'ddd';
+//            $sql = M('verify');
+//            $update = array('component_verify_ticket'=>$component_verify_ticket,'time'=>$data['time']);
+//            $result = $sql->where('token="'.$token.'"')->setField($update);
+//            $sql->where('token="'.$token.'"')->setInc('verify_ticket_number');
+//            $num = $sql->where('token="'.$token.'"')->getField('verify_ticket_number');
+//            echo $num.'click';
+//            if ($num > 10) {
+//                $this->getAccessToken();
+//                $sql->where('token="'.$token.'"')->setField('verify_ticket_number', '');
+//            }
+//        } else {
+//            $result = $sql->add($data);
+//        }
+//        if ($result) {
+//            echo 'success';
+//        }
+//
+//    }
     //网络请求方法
     function http_post_json($url, $jsonStr)
     {
@@ -143,7 +143,7 @@ class EventController extends Controller
 //        print_r($json);
         $obj = json_decode($json[1]);
         $data = $obj->component_access_token;
-        $sql->where('token="'.$this->token.'"')->setField('remark', "$obj");
+//        $sql->where('token="'.$this->token.'"')->setField('remark', "$obj");
         $sql->where('token="'.$this->token.'"')->setField('component_access_token', "$data");
     }
 
